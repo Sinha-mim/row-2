@@ -1,0 +1,35 @@
+.box {
+      background-color: #a40f28;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      border: 1px solid #5d9509;
+ }
+
+    .box1 { background: #2e16b3; 
+      color: #fff; 
+      text-align: center; 
+      padding: 20px; 
+      border: 1px solid #852a6b; }
+
+      .box3 {
+      background: #2c2344;
+      color: #eee;
+      border: 1px solid #5a4fbf;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    body { background: #1e1f21; padding: 30px; }
+
+    body {
+      background-color: #1e1f21;
+      padding: 30px;
+    }
+    .box4 {
+      background-color: #321f64;
+      color: #eee;
+      border: 1px solid #6a35e0;
+      padding: 20px;
+      text-align: center;
+    }
